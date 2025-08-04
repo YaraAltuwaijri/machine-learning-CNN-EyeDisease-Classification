@@ -3,7 +3,7 @@
 
 This project builds a Convolutional Neural Network (CNN) to classify **retinal fundus images** into three categories: **Normal**, **Cataract**, and **Glaucoma**. These eye conditions are among the leading causes of visual impairment globally, and early detection is critical for effective treatment and prevention of vision loss.
 
-Manual screening of fundus images is time-consuming, subjective, and often limited by access to trained ophthalmologists. This project explores the use of deep learning — specifically CNNs — to automate the detection and classification process with high accuracy, offering a scalable and objective alternative in clinical and remote settings.
+Manual screening of fundus images is time-consuming, subjective, and often limited by access to trained ophthalmologists. This project explores the use of deep learning to automate the detection and classification process with high accuracy, offering a scalable and objective alternative in clinical and remote settings.
 
 ---
 
