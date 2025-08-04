@@ -9,18 +9,17 @@ Manual screening of fundus images is time-consuming, subjective, and often limit
 
 ## Overview
 The CNN is trained on a pre-labeled dataset of fundus images. The pipeline includes:
-- Image preprocessing and labeling  
-- Model architecture definition and training  
-- Evaluation using classification metrics and visualizations  
-- Interpretation of results and performance reporting
+- Image preprocessing.
+- Model architecture definition and training. 
+- Evaluation using classification metrics and visualizations.  
+- Interpretation of results and performance reporting.
 
 ---
 
 ## Objectives
 - Build a CNN model to classify retinal images into Normal, Cataract, or Glaucoma.  
 - Train and validate the model using real patient data.  
-- Evaluate performance with accuracy, precision, recall, F1-score, and confusion matrix.  
-- Explore model limitations and potential applications in clinical decision support.
+- Evaluate performance with accuracy, precision, recall, F1-score, and confusion matrix. 
 
 ---
 
