@@ -1,4 +1,4 @@
-# machine-learning-CNN-EyeDisease-Classification
+# Machine Learning
 # CNN-Based Classification of Eye Diseases
 
 This project builds a Convolutional Neural Network (CNN) to classify **retinal fundus images** into three categories: **Normal**, **Cataract**, and **Glaucoma**. These eye conditions are among the leading causes of visual impairment globally, and early detection is critical for effective treatment and prevention of vision loss.
